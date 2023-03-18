@@ -974,6 +974,7 @@ section {
 .team .team-member .member-img {
   position: relative;
   overflow: hidden;
+  border-radius: 10px;
 }
 
 .team .team-member .social {
